@@ -1,5 +1,5 @@
 {
-  "name": "Comment Code",
+  "name": "commentcode",
   "main": "./lib/commentcode",
   "version": "0.0.1",
   "description": "A multi-language library for producing comments quickly",
