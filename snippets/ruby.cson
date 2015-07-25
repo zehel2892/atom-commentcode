@@ -1,9 +1,9 @@
 '.text.html.ruby .text.html.erb':
-  'comment_doc_block':
-    'prefix': 'ccdb'
+  'comment_block_doc':
+    'prefix': 'ccbd'
     'body': '=begin\n Title: ${1:Title} \n Description: ${2:Description}\n=end$0'
-  'comment_function_block':
-    'prefix': 'ccfb'
+  'comment_block_function':
+    'prefix': 'ccbf'
     'body': '=begin\n Title: ${1:Title} \n Description: ${2:Description}\n=end$0'
   'comment':
     'prefix': 'cc'

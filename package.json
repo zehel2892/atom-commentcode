@@ -5,7 +5,7 @@
   "description": "A multi-language library for producing comments quickly",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/comments",
+  "repository": "https://github.com/thomasmeadows/atom-commentcode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
