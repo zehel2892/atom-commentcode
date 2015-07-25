@@ -1,0 +1,26 @@
+'.source.js':
+  'comment_doc_block':
+    'prefix': 'ccdb'
+    'body': '/*\n * Title: ${1:Title} \n * Description: ${2:Description}\n */$0'
+  'comment_function_block':
+    'prefix': 'ccfb'
+    'body': '/*\n * Title: ${1:Title} \n * Description: ${2:Description}\n */$0'
+  'comment':
+    'prefix': 'cc'
+    'body': '# ${1:?}$0'
+  #ccl incase cc is already used by another mod
+  'comment_line':
+    'prefix': 'ccl'
+    'body': '# ${1:?}$0'
+  'comment_todo':
+    'prefix': 'cct'
+    'body': '# TODO: $0'
+  'comment_review':
+    'prefix': 'ccr'
+    'body': '# REVIEW: $0'
+  'comment_fixme':
+    'prefix': 'ccf'
+    'body': '# FIXME: $0'
+  'comment_xxx':
+    'prefix': 'ccx'
+    'body': '# XXX: $0'

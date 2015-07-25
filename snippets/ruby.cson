@@ -1,0 +1,26 @@
+'.text.html.ruby .text.html.erb':
+  'comment_doc_block':
+    'prefix': 'ccdb'
+    'body': '=begin\n Title: ${1:Title} \n Description: ${2:Description}\n=end$0'
+  'comment_function_block':
+    'prefix': 'ccfb'
+    'body': '=begin\n Title: ${1:Title} \n Description: ${2:Description}\n=end$0'
+  'comment':
+    'prefix': 'cc'
+    'body': '# ${1:?}$0'
+  #ccl incase cc is already used by another mod
+  'comment_line':
+    'prefix': 'ccl'
+    'body': '# ${1:?}$0'
+  'comment_todo':
+    'prefix': 'cct'
+    'body': '# TODO: $0'
+  'comment_review':
+    'prefix': 'ccr'
+    'body': '# REVIEW: $0'
+  'comment_fixme':
+    'prefix': 'ccf'
+    'body': '# FIXME: $0'
+  'comment_xxx':
+    'prefix': 'ccx'
+    'body': '# XXX: $0'
