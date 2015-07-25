@@ -1,15 +1,13 @@
 {
   "name": "commentcode",
   "main": "./lib/commentcode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A multi-language library for producing comments quickly",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/thomasmeadows/atom-commentcode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
