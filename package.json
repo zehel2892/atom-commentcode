@@ -1,6 +1,6 @@
 {
   "name": "commentcode",
-  "main": "./lib/commentcode",
+  "main": "./lib/main",
   "version": "0.1.0",
   "description": "A multi-language library for producing comments quickly",
   "keywords": [],
