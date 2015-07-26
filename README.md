@@ -46,5 +46,14 @@ Sorry, I don't write code in every language, but I have google.  Fix it and send
 
 [Tips To Code Better](http://www.craigsefton.com/programming/tips-better-code-comments/)
 
-##Wanna help?
-Cool, send your pull request.  This is my first atom package so development will be a bit slow.
+##Contribute
+If you're going to submit a pull request, please try to follow
+[the official contribution guidelines of Atom](https://atom.io/docs/latest/contributing).
+
+1. [Fork it](https://github.com/thomasmeadows/atom-commentcode).
+2. Create your feature branch (`git checkout -b my-new-feature`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin my-new-feature`).
+5. Create new Pull Request.
+
+[See all contributors](https://github.com/thomasmeadows/atom-commentcode/graphs/contributors).
